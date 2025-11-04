@@ -1,3 +1,8 @@
-[gd_scene format=3 uid="uid://elst0xn32iil"]
+[gd_scene load_steps=3 format=3 uid="uid://elst0xn32iil"]
+
+[ext_resource type="Script" uid="uid://dceffjs8rpmpn" path="res://game.gd" id="1_80nbo"]
+[ext_resource type="Resource" uid="uid://cb3mv3l7lgd50" path="res://resources/game_state.tres" id="2_e2o6t"]
 
 [node name="Game" type="Node2D"]
+script = ExtResource("1_80nbo")
+game_state = ExtResource("2_e2o6t")

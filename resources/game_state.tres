@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="GameState" load_steps=2 format=3 uid="uid://cb3mv3l7lgd50"]
+
+[ext_resource type="Script" uid="uid://bltv3w2vnmke6" path="res://resources/game_state.gd" id="1_ljf37"]
+
+[resource]
+script = ExtResource("1_ljf37")
+save_path = "user://save.tres"
+metadata/_custom_type_script = "uid://bltv3w2vnmke6"

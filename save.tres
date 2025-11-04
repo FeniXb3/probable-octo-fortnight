@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="GameState" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://resources/game_state.gd" id="1_g0cot"]
+
+[resource]
+script = ExtResource("1_g0cot")
+first_choice = -1
+metadata/_custom_type_script = "uid://bltv3w2vnmke6"
